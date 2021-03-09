@@ -1,5 +1,9 @@
 git text
 
+<<<<<<< HEAD
 test test test
 
+=======
+writing at web...
+>>>>>>> 2cd8db13de363c8fe7c92f8f20b03d4ea6ba4914
 
